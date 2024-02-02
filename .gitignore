@@ -7,6 +7,7 @@
 #Ignore uploaded files in development
 /config/database.yml
 .vscode/
+/node_modules
 
 
 # Ignore bundler config.
